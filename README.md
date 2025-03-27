@@ -11,7 +11,7 @@ This repository is dedicated to analyzing data from the OneShot experiment using
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.7
 - Jupyter Notebook
 - Required Python libraries (see below)
 
